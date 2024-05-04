@@ -1,0 +1,18 @@
+import Image from "next/image";
+
+export default function Home() {
+  return (
+    <div className="flex min-h-screen font-sans w-1/2 mx-auto py-20 whitespace-normal text-justify text-2xl leading-10">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel turpis pulvinar, volutpat massa et, faucibus elit. Proin maximus lacus in libero commodo, eget finibus lorem iaculis. Maecenas vitae ligula id sem bibendum tristique. Proin sed convallis metus. Etiam vitae mauris turpis. Pellentesque eget risus dapibus, tempus felis sed, fermentum tellus. Nam eu sodales ligula, sit amet hendrerit enim. Nulla facilisi. Praesent tincidunt pulvinar finibus. Sed venenatis viverra lorem, quis imperdiet odio lacinia a. Cras sed dapibus lectus. Donec tristique risus risus, in pellentesque orci facilisis vitae. Sed cursus, urna ut accumsan aliquet, ligula lacus suscipit ligula, id consequat lacus felis et nulla. In tincidunt orci eget ultrices ultricies. Donec a massa eu nunc tempus pharetra. Quisque viverra ultrices convallis.
+
+      Suspendisse est ex, iaculis ut metus in, tempus rutrum enim. Cras a commodo nisl. Fusce at dui vulputate, efficitur lacus vel, consectetur velit. Praesent ut efficitur arcu, ut consectetur turpis. Morbi ac convallis turpis. Fusce condimentum, nisl congue pretium semper, magna ex dignissim metus, at mollis tellus sapien ac erat. Proin non laoreet elit, nec consequat justo. Quisque venenatis at ante id lacinia. Integer mollis quam non facilisis tincidunt. Aliquam erat volutpat. Proin eu lectus sed ipsum rhoncus fermentum non et nulla. Duis laoreet leo id metus pellentesque, ac scelerisque elit ultricies. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+
+      Nulla sollicitudin elit quis ipsum porttitor auctor. Vestibulum dictum lorem ligula, sed porttitor velit tempor non. Vivamus ut vulputate lacus. Donec laoreet, neque a ullamcorper placerat, neque nulla consequat lacus, eget feugiat ipsum tortor ac mi. In risus urna, posuere quis condimentum ac, mattis vitae sapien. Quisque aliquet, mauris sed fermentum ultricies, nunc sapien finibus mauris, sed congue mi metus vel dui. Praesent eros metus, fermentum eget facilisis ut, aliquam commodo odio.
+
+      Integer in massa cursus, commodo enim quis, facilisis ante. Sed rutrum augue non tellus consectetur, non tincidunt tellus vulputate. Fusce sem sapien, dictum sit amet risus sit amet, volutpat euismod odio. Mauris ante lectus, placerat non gravida ut, euismod vel enim. Mauris pretium tempor turpis nec posuere. Curabitur leo tortor, fringilla in diam quis, posuere porttitor lacus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nunc orci, auctor non efficitur eu, molestie vitae urna. Aliquam sagittis velit quis sagittis accumsan.
+
+      Etiam ac diam odio. Suspendisse ornare accumsan nisi, at blandit turpis pellentesque sed. Morbi et nisl sed turpis tristique faucibus eget nec urna. In hac habitasse platea dictumst. Suspendisse at scelerisque ipsum. Sed ultricies elit sed ultricies dapibus. Nam semper, sem ac viverra fringilla, libero ex luctus nunc, non luctus nisl erat et justo. In sed ultrices neque, sed imperdiet metus. Morbi aliquam arcu quis dignissim elementum. Curabitur odio nibh, finibus vitae sapien in, gravida luctus nisi. Quisque in metus sit amet magna placerat vulputate. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean tincidunt felis vitae dui malesuada sagittis. Pellentesque scelerisque quam bibendum ipsum commodo placerat.
+
+    </div>
+  );
+}
